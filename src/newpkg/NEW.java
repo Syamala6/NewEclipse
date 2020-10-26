@@ -5,6 +5,7 @@ public class NEW {
 	public static void main(String[] args) {
 		NEW m6=new NEW();
 		System.out.println("value of c is :"+m6.c);
+		//
 	}
 
 }
